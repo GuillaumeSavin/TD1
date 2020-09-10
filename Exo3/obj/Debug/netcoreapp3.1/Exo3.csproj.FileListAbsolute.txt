@@ -1,0 +1,13 @@
+/root/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3
+/root/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.deps.json
+/root/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.runtimeconfig.json
+/root/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.runtimeconfig.dev.json
+/root/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.dll
+/root/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.pdb
+/root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.csprojAssemblyReference.cache
+/root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.AssemblyInfoInputs.cache
+/root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.AssemblyInfo.cs
+/root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.csproj.CoreCompileInputs.cache
+/root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.dll
+/root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.pdb
+/root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.genruntimeconfig.cache
