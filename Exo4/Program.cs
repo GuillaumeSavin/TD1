@@ -27,14 +27,29 @@ namespace Exo4
         {
             String str = "[";
             
-            for (int i = 0; i < matEntier.Length; i ++)
+            for (int i = 0; i < matEntier.GetLength(0); i ++)
             {
-                str += matEntier[i];
-
-                if (i < matEntier.Length - 1)
+                for (int j = 0; j < matEntier.GetLength(1); j++)
                 {
-                    str += ", ";
+                    str += matEntier[i, j];
+                    
+                    if (j < matEntier.GetLength(1) - 1)
+                    {
+                        str += ", ";
+                    }
                 }
+                
+                if (i < matEntier.GetLength(0) - 1)
+                {
+                    str += "],\n[";
+                }
+
+                if (i == matEntier.GetLength(0))
+                {
+                    str += "]";
+                }
+
+                
             }
 
             str += "]";
@@ -60,7 +75,7 @@ namespace Exo4
 
             sasieValeurMactriceInt(matEntier);
             
-            //affichageMatriceInt(tabEntier);
+            affichageMatriceInt(matEntier);
         }
     }
 }
