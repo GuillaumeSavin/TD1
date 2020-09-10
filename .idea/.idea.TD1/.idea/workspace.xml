@@ -5,15 +5,12 @@
     <projectFile>Exo2/Exo2.csproj</projectFile>
     <projectFile>Exo3/Exo3.csproj</projectFile>
     <projectFile>Exo4/Exo4.csproj</projectFile>
+    <projectFile>Exo5/Exo5.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b6bac2-a2b6-4815-9d49-173627a03e28" name="Default Changelist" comment="First Commit">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TD1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TD1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exo4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TD1.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +27,7 @@
         <option value="$PROJECT_DIR$/Exo2/Program.cs" />
         <option value="$PROJECT_DIR$/Exo3/Program.cs" />
         <option value="$PROJECT_DIR$/Exo4/Program.cs" />
+        <option value="$PROJECT_DIR$/Exo5/Program.cs" />
       </list>
     </option>
   </component>
@@ -121,6 +119,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Exo5" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Exo5/Exo5.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -130,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599724115464</updated>
-      <workItem from="1599724118752" duration="8811000" />
+      <workItem from="1599724118752" duration="9934000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1599732027340</created>
@@ -139,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599732027340</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1599738520342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599738520342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +180,10 @@
       <screen x="0" y="0" width="958" height="957" />
     </state>
     <state x="257" y="223" width="437" height="512" key="FileChooserDialogImpl/0.0.958.957@0.0.958.957" timestamp="1599732125660" />
+    <state x="344" y="379" key="Github.ShareDialog" timestamp="1599738605103">
+      <screen x="0" y="0" width="958" height="957" />
+    </state>
+    <state x="344" y="379" key="Github.ShareDialog/0.0.958.957@0.0.958.957" timestamp="1599738605103" />
     <state width="916" height="248" key="GridCell.Tab.0.bottom" timestamp="1599738477008">
       <screen x="0" y="0" width="958" height="957" />
     </state>
@@ -237,15 +264,15 @@
       <screen x="0" y="0" width="958" height="957" />
     </state>
     <state width="916" height="334" key="GridCell.Tab.4.right/0.0.958.957@0.0.958.957" timestamp="1599738335716" />
-    <state x="254" y="213" width="704" height="534" key="Rider.ProjectTemplateDialog.Size" timestamp="1599730178928">
+    <state x="254" y="213" width="704" height="534" key="Rider.ProjectTemplateDialog.Size" timestamp="1599739644750">
       <screen x="0" y="0" width="958" height="957" />
     </state>
     <state x="547" y="211" width="804" height="530" key="Rider.ProjectTemplateDialog.Size/0.0.1904.950@0.0.1904.950" timestamp="1599724171795" />
-    <state x="254" y="213" width="704" height="534" key="Rider.ProjectTemplateDialog.Size/0.0.958.957@0.0.958.957" timestamp="1599730178928" />
-    <state x="74" y="202" width="804" height="555" key="Vcs.Push.Dialog.v2" timestamp="1599738516299">
+    <state x="254" y="213" width="704" height="534" key="Rider.ProjectTemplateDialog.Size/0.0.958.957@0.0.958.957" timestamp="1599739644750" />
+    <state x="74" y="202" width="804" height="555" key="Vcs.Push.Dialog.v2" timestamp="1599738842886">
       <screen x="0" y="0" width="958" height="957" />
     </state>
-    <state x="74" y="202" width="804" height="555" key="Vcs.Push.Dialog.v2/0.0.958.957@0.0.958.957" timestamp="1599738516299" />
+    <state x="74" y="202" width="804" height="555" key="Vcs.Push.Dialog.v2/0.0.958.957@0.0.958.957" timestamp="1599738842886" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
