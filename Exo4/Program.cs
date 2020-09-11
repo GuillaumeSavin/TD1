@@ -54,7 +54,7 @@ namespace Exo4
 
             str += "]";
             
-            Console.WriteLine("Affichage Tableau :\n" + str + "\n");
+            Console.WriteLine("Affichage Matrice :\n" + str + "\n");
         }
         static void Main(string[] args)
         {

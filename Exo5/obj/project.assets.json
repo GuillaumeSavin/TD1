@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gusavin/RiderProjects/TD1/Exo3/Exo3.csproj",
-      "projectName": "Exo3",
-      "projectPath": "/home/gusavin/RiderProjects/TD1/Exo3/Exo3.csproj",
+      "projectUniqueName": "/home/gusavin/RiderProjects/TD1/Exo5/Exo5.csproj",
+      "projectName": "Exo5",
+      "projectPath": "/home/gusavin/RiderProjects/TD1/Exo5/Exo5.csproj",
       "packagesPath": "/home/gusavin/.nuget/packages/",
-      "outputPath": "/home/gusavin/RiderProjects/TD1/Exo3/obj/",
+      "outputPath": "/home/gusavin/RiderProjects/TD1/Exo5/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gusavin/.nuget/NuGet/NuGet.Config"

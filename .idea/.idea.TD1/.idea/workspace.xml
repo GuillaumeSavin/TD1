@@ -7,24 +7,113 @@
     <projectFile>Exo4/Exo4.csproj</projectFile>
     <projectFile>Exo5/Exo5.csproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b6bac2-a2b6-4815-9d49-173627a03e28" name="Default Changelist" comment="Second Commit">
-      <change afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/Exo5.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/Exo5.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/Exo5.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo5/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TD1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TD1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TD1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TD1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/bin/Debug/netcoreapp3.1/Exo1" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/bin/Debug/netcoreapp3.1/Exo1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/bin/Debug/netcoreapp3.1/Exo1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/bin/Debug/netcoreapp3.1/Exo1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/bin/Debug/netcoreapp3.1/Exo1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/bin/Debug/netcoreapp3.1/Exo1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/bin/Debug/netcoreapp3.1/Exo1.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/bin/Debug/netcoreapp3.1/Exo1.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/Debug/netcoreapp3.1/Exo1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/Exo1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/Exo1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/Exo1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/Exo1.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Exo1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/bin/Debug/netcoreapp3.1/Exo2" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/bin/Debug/netcoreapp3.1/Exo2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/bin/Debug/netcoreapp3.1/Exo2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/bin/Debug/netcoreapp3.1/Exo2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/bin/Debug/netcoreapp3.1/Exo2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/bin/Debug/netcoreapp3.1/Exo2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/bin/Debug/netcoreapp3.1/Exo2.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/bin/Debug/netcoreapp3.1/Exo2.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/Debug/netcoreapp3.1/Exo2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/Exo2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/Exo2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/Exo2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/Exo2.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Exo2/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/bin/Debug/netcoreapp3.1/Exo3" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/bin/Debug/netcoreapp3.1/Exo3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/bin/Debug/netcoreapp3.1/Exo3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/bin/Debug/netcoreapp3.1/Exo3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/bin/Debug/netcoreapp3.1/Exo3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/bin/Debug/netcoreapp3.1/Exo3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/bin/Debug/netcoreapp3.1/Exo3.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/bin/Debug/netcoreapp3.1/Exo3.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/Debug/netcoreapp3.1/Exo3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/Exo3.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/Exo3.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/Exo3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/Exo3.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo3/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Exo3/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/bin/Debug/netcoreapp3.1/Exo4.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Debug/netcoreapp3.1/Exo4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/Exo4.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Exo4.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/Exo4.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/Exo4.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo4/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Exo4/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exo5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/bin/Debug/netcoreapp3.1/Exo5.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Exo5/obj/Debug/netcoreapp3.1/Exo5.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +145,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502825" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30056497" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35029778" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30048728" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.Exo5">
     <configuration name="Exo1" type="DotNetProject" factoryName=".NET Project">
@@ -164,6 +253,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599724115464</updated>
       <workItem from="1599724118752" duration="11659000" />
+      <workItem from="1599849605674" duration="2856000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1599732027340</created>
@@ -192,8 +282,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -210,85 +311,105 @@
       <screen x="0" y="0" width="958" height="957" />
     </state>
     <state x="344" y="379" key="Github.ShareDialog/0.0.958.957@0.0.958.957" timestamp="1599738605103" />
-    <state width="916" height="248" key="GridCell.Tab.0.bottom" timestamp="1599740248803">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="261" key="GridCell.Tab.0.bottom" timestamp="1599854036851">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1039@0.0.1920.1039" timestamp="1599854036851" />
     <state width="916" height="248" key="GridCell.Tab.0.bottom/0.0.958.957@0.0.958.957" timestamp="1599740248803" />
-    <state width="916" height="248" key="GridCell.Tab.0.center" timestamp="1599740248801">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="261" key="GridCell.Tab.0.center" timestamp="1599854036850">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.center/0.0.1920.1039@0.0.1920.1039" timestamp="1599854036850" />
     <state width="916" height="248" key="GridCell.Tab.0.center/0.0.958.957@0.0.958.957" timestamp="1599740248801" />
-    <state width="916" height="248" key="GridCell.Tab.0.left" timestamp="1599740248800">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="261" key="GridCell.Tab.0.left" timestamp="1599854036850">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.left/0.0.1920.1039@0.0.1920.1039" timestamp="1599854036850" />
     <state width="916" height="248" key="GridCell.Tab.0.left/0.0.958.957@0.0.958.957" timestamp="1599740248800" />
-    <state width="916" height="248" key="GridCell.Tab.0.right" timestamp="1599740248802">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="261" key="GridCell.Tab.0.right" timestamp="1599854036850">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.right/0.0.1920.1039@0.0.1920.1039" timestamp="1599854036850" />
     <state width="916" height="248" key="GridCell.Tab.0.right/0.0.958.957@0.0.958.957" timestamp="1599740248802" />
-    <state width="916" height="334" key="GridCell.Tab.1.bottom" timestamp="1599738335708">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom" timestamp="1599853972239">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972239" />
     <state width="916" height="334" key="GridCell.Tab.1.bottom/0.0.958.957@0.0.958.957" timestamp="1599738335708" />
-    <state width="916" height="334" key="GridCell.Tab.1.center" timestamp="1599738335707">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.1.center" timestamp="1599853972239">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.center/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972239" />
     <state width="916" height="334" key="GridCell.Tab.1.center/0.0.958.957@0.0.958.957" timestamp="1599738335707" />
-    <state width="916" height="334" key="GridCell.Tab.1.left" timestamp="1599738335707">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.1.left" timestamp="1599853972233">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.left/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972233" />
     <state width="916" height="334" key="GridCell.Tab.1.left/0.0.958.957@0.0.958.957" timestamp="1599738335707" />
-    <state width="916" height="334" key="GridCell.Tab.1.right" timestamp="1599738335708">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.1.right" timestamp="1599853972239">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.1.right/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972239" />
     <state width="916" height="334" key="GridCell.Tab.1.right/0.0.958.957@0.0.958.957" timestamp="1599738335708" />
-    <state width="916" height="334" key="GridCell.Tab.2.bottom" timestamp="1599738335711">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.2.bottom" timestamp="1599853972240">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.2.bottom/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972240" />
     <state width="916" height="334" key="GridCell.Tab.2.bottom/0.0.958.957@0.0.958.957" timestamp="1599738335711" />
-    <state width="916" height="334" key="GridCell.Tab.2.center" timestamp="1599738335710">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.2.center" timestamp="1599853972239">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.2.center/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972239" />
     <state width="916" height="334" key="GridCell.Tab.2.center/0.0.958.957@0.0.958.957" timestamp="1599738335710" />
-    <state width="916" height="334" key="GridCell.Tab.2.left" timestamp="1599738335709">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.2.left" timestamp="1599853972239">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.2.left/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972239" />
     <state width="916" height="334" key="GridCell.Tab.2.left/0.0.958.957@0.0.958.957" timestamp="1599738335709" />
-    <state width="916" height="334" key="GridCell.Tab.2.right" timestamp="1599738335710">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.2.right" timestamp="1599853972240">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.2.right/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972240" />
     <state width="916" height="334" key="GridCell.Tab.2.right/0.0.958.957@0.0.958.957" timestamp="1599738335710" />
-    <state width="916" height="334" key="GridCell.Tab.3.bottom" timestamp="1599738335715">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.3.bottom" timestamp="1599853972240">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.3.bottom/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972240" />
     <state width="916" height="334" key="GridCell.Tab.3.bottom/0.0.958.957@0.0.958.957" timestamp="1599738335715" />
-    <state width="916" height="334" key="GridCell.Tab.3.center" timestamp="1599738335714">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.3.center" timestamp="1599853972240">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.3.center/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972240" />
     <state width="916" height="334" key="GridCell.Tab.3.center/0.0.958.957@0.0.958.957" timestamp="1599738335714" />
-    <state width="916" height="334" key="GridCell.Tab.3.left" timestamp="1599738335713">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.3.left" timestamp="1599853972240">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.3.left/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972240" />
     <state width="916" height="334" key="GridCell.Tab.3.left/0.0.958.957@0.0.958.957" timestamp="1599738335713" />
-    <state width="916" height="334" key="GridCell.Tab.3.right" timestamp="1599738335714">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.3.right" timestamp="1599853972240">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.3.right/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972240" />
     <state width="916" height="334" key="GridCell.Tab.3.right/0.0.958.957@0.0.958.957" timestamp="1599738335714" />
-    <state width="916" height="334" key="GridCell.Tab.4.bottom" timestamp="1599738335716">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.4.bottom" timestamp="1599853972241">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.4.bottom/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972241" />
     <state width="916" height="334" key="GridCell.Tab.4.bottom/0.0.958.957@0.0.958.957" timestamp="1599738335716" />
-    <state width="916" height="334" key="GridCell.Tab.4.center" timestamp="1599738335715">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.4.center" timestamp="1599853972241">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.4.center/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972241" />
     <state width="916" height="334" key="GridCell.Tab.4.center/0.0.958.957@0.0.958.957" timestamp="1599738335715" />
-    <state width="916" height="334" key="GridCell.Tab.4.left" timestamp="1599738335715">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.4.left" timestamp="1599853972240">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.4.left/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972240" />
     <state width="916" height="334" key="GridCell.Tab.4.left/0.0.958.957@0.0.958.957" timestamp="1599738335715" />
-    <state width="916" height="334" key="GridCell.Tab.4.right" timestamp="1599738335716">
-      <screen x="0" y="0" width="958" height="957" />
+    <state width="1878" height="367" key="GridCell.Tab.4.right" timestamp="1599853972241">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
+    <state width="1878" height="367" key="GridCell.Tab.4.right/0.0.1920.1039@0.0.1920.1039" timestamp="1599853972241" />
     <state width="916" height="334" key="GridCell.Tab.4.right/0.0.958.957@0.0.958.957" timestamp="1599738335716" />
     <state x="254" y="213" width="704" height="534" key="Rider.ProjectTemplateDialog.Size" timestamp="1599739644750">
       <screen x="0" y="0" width="958" height="957" />
@@ -299,24 +420,5 @@
       <screen x="0" y="0" width="958" height="957" />
     </state>
     <state x="74" y="202" width="804" height="555" key="Vcs.Push.Dialog.v2/0.0.958.957@0.0.958.957" timestamp="1599739724774" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Exo4/Program.cs</url>
-          <line>29</line>
-          <properties documentPath="$PROJECT_DIR$/Exo4/Program.cs" initialLine="29">
-            <startOffsets>
-              <option value="891" />
-            </startOffsets>
-            <endOffsets>
-              <option value="940" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
