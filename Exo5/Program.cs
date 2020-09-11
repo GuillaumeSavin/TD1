@@ -70,10 +70,6 @@ namespace Exo5
                 matEntier[i] = new int[nbrColonne[i]];
             }
             Console.WriteLine();
-            
-            
-            
-            
 
             sasieValeurMactriceInt(matEntier, nbrColonne);
             
