@@ -4,7 +4,7 @@ namespace Exo5
 {
     class Program
     {
-        public static void sasieValeurMactriceInt(int [,] matEntier, int[] nbrColonne)
+        public static void sasieValeurMactriceInt(int [][] matEntier, int[] nbrColonne)
         {
             int valSaisie = 0;
             int nbrLigne = matEntier.GetLength(0);
@@ -14,16 +14,16 @@ namespace Exo5
             {
                 for (int j = 0; j < nbrColonne[i]; j++)
                 {
-                    Console.WriteLine("Veuillez saisir un entier (" + (i + 1) + "/" + nbrLigne + ", " + (j + 1) + "/" + nbrColonne + ") :");    
+                    Console.WriteLine("Veuillez saisir un entier (" + (i + 1) + "/" + nbrLigne + ", " + (j + 1) + "/" + nbrColonne[i] + ") :");    
                     valSaisie = int.Parse(Console.ReadLine());
-                    matEntier[i, j] = valSaisie;
+                    matEntier[i][j] = valSaisie;
                 }
             }
             
             Console.WriteLine();
         }
 
-        public static void affichageMatriceInt(int[,] matEntier, int[] nbrColonne)
+        public static void affichageMatriceInt(int[][] matEntier, int[] nbrColonne)
         {
             String str = "[";
             
@@ -31,9 +31,8 @@ namespace Exo5
             {
                 for (int j = 0; j < nbrColonne[i]; j++)
                 {
-                    str += matEntier[i, j];
-                    
-                    if (j < matEntier.GetLength(1) - 1)
+                    str += matEntier[i][j];
+                    if (j < nbrColonne[i] - 1)
                     {
                         str += ", ";
                     }
@@ -54,7 +53,7 @@ namespace Exo5
 
             str += "]";
             
-            Console.WriteLine("Affichage Tableau :\n" + str + "\n");
+            Console.WriteLine("Affichage Matrice Déchiqueté :\n" + str + "\n");
         }
         
         static void Main(string[] args)
@@ -63,20 +62,18 @@ namespace Exo5
             Console.WriteLine("Veuillez saisir le nombre de ligne de la matrice :");
             nbrLigne = int.Parse(Console.ReadLine());
             int[] nbrColonne = new int[nbrLigne];
+            int[][] matEntier = new int[nbrLigne][];
             for (int i = 0; i < nbrLigne; i++)
             {
                 Console.WriteLine("Veuillez saisir le nombre de colonne de la matrice de la ligne : " + (i + 1) + "/" + nbrLigne);
                 nbrColonne[i] = int.Parse(Console.ReadLine());
+                matEntier[i] = new int[nbrColonne[i]];
             }
             Console.WriteLine();
-            
-            int[,] matEntier;
-            
-            
 
             sasieValeurMactriceInt(matEntier, nbrColonne);
             
-            affichageMatriceInt(matEntier);*/
+            affichageMatriceInt(matEntier, nbrColonne);
         }
     }
 }

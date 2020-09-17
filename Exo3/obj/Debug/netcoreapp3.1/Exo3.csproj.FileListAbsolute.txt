@@ -11,3 +11,14 @@
 /root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.dll
 /root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.pdb
 /root/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.genruntimeconfig.cache
+/home/gusavin/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3
+/home/gusavin/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.deps.json
+/home/gusavin/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.runtimeconfig.json
+/home/gusavin/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.runtimeconfig.dev.json
+/home/gusavin/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.dll
+/home/gusavin/RiderProjects/TD1/Exo3/bin/Debug/netcoreapp3.1/Exo3.pdb
+/home/gusavin/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.csprojAssemblyReference.cache
+/home/gusavin/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.AssemblyInfoInputs.cache
+/home/gusavin/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.AssemblyInfo.cs
+/home/gusavin/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.dll
+/home/gusavin/RiderProjects/TD1/Exo3/obj/Debug/netcoreapp3.1/Exo3.pdb
