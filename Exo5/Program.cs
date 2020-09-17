@@ -4,7 +4,7 @@ namespace Exo5
 {
     class Program
     {
-        public static void sasieValeurMactriceInt(int [][] matEntier, int[] nbrColonne)
+        public static void saisieValeurMactriceInt(int [][] matEntier, int[] nbrColonne)
         {
             int valSaisie = 0;
             int nbrLigne = matEntier.GetLength(0);
@@ -71,7 +71,7 @@ namespace Exo5
             }
             Console.WriteLine();
 
-            sasieValeurMactriceInt(matEntier, nbrColonne);
+            saisieValeurMactriceInt(matEntier, nbrColonne);
             
             affichageMatriceInt(matEntier, nbrColonne);
         }

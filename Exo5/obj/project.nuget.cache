@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mqQgZt6RctSHmn5Rd4XSIH9TLOtA5doq0FhGX5RZYOucPctkqEy/MpEq2Bi3IL3CrCP0ZJOQk9eO1TRFWNxhQg==",
+  "dgSpecHash": "MK++NFRmDc4AZ96k6h7ySLmV+OIr0i3bapy9e6Gc0KXYvbVGMVCRSSNURMJ9x6N+t36ea643/SCccY+nIUX6pg==",
   "success": true,
-  "projectFilePath": "/home/gusavin/RiderProjects/TD1/Exo5/Exo5.csproj",
-  "expectedPackageFiles": [
-    "/home/gusavin/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.3/microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512"
-  ],
+  "projectFilePath": "/root/RiderProjects/TD1/Exo5/Exo5.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
